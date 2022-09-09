@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class LoadAudio : MonoBehaviour
 {
+    //This script is created to bypass a WebGL audio issue.
+
     public AudioClip clip;
 
     // Start is called before the first frame update
